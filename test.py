@@ -1,4 +1,1 @@
-import sfsdfsdf
-sfsdfsdffsd
-fsd
-fsdfsd
+print('Hi from file')
